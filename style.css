@@ -1,0 +1,19 @@
+h1 {
+    color:red
+}
+h2 {
+    color:aqua
+}
+h3 {
+    color:chartreuse
+}
+.b {
+    color:blueviolet
+}
+#myphoto {
+    width: 400px;
+    height: 400px;
+    display: block;
+    border: 3px solid black;
+    border-radius: 50%;
+}
